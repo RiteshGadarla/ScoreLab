@@ -2,7 +2,8 @@
 **AI-Powered Teacher Assistant for Automated Grading and Personalized Feedback** 🌟  
 *Submission for the Google Solutions Challenge 2025 by Telugu Techies*
 
----
+**Demo Video**: [Video](https://drive.google.com/drive/folders/1juSpKeuLp69iLn3VBU-Z59GXkJ3lx9lI?usp=sharing) 🎥
+
 
 ## Overview 📖
 Teachers worldwide are overburdened with manual grading and struggle to provide personalized feedback, especially in large or under-resourced classrooms. This limits their ability to mentor effectively and deprives students of tailored guidance essential for learning.
@@ -139,14 +140,7 @@ google/
 - **Gamification**: Add student incentives (e.g., badges) 🎮.
 - **Plagiarism Detection**: Integrate checks for originality 🔍.
 - **Scheduling**: Automate assignment deadlines ⏰.
-
----
-
-## Links 🌐
-- **GitHub Repository**: [https://github.com/Ritesh2006M/google](https://github.com/Ritesh2006M/google) 📂
-- **Demo Video**: [Video](https://drive.google.com/drive/folders/1juSpKeuLp69iLn3VBU-Z59GXkJ3lx9lI?usp=sharing) 🎥
-- **MVP**: [https://scorelab.app/](https://scorelab.app/) 🌍
-
+- 
 ---
 
 ## Team 👥
